@@ -3,10 +3,3 @@
 3] divide and  Conquer   =>  mearge sort, quick sort, binary search, tower of hanoi.
 4] dynamic programming   =>  fibonacci and climbing staircase.
 5] backtracking          => N-queens problem.
-
-
-
-Q. What is Data Structure ?
-=> A data structure is way to store and organize data that we can used Efficiently.
-
-=> A data structure is technique to store and manage data that used Efficiently.

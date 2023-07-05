@@ -1,0 +1,39 @@
+
+
+Q. What is Data Structure ?
+=> A data structure is way to store and organize data that we can used Efficiently.
+
+=> A data structure is technique to store and manage data that used Efficiently.
+
+=> data structure is a collection of data values the relationships among them and 
+   function or operations that can be applied to the data.
+
+
+Q. why learn Data Structure?
+
+=>  to manage data Efficiently thats why you need to data structure.
+=> the Efficiently manage the data you need data structure.
+
+
+condition
+
+=> the diffrence betn millisec vs few sec or even minutes for that you need to 
+  know right data structure or code or alogrithm
+
+=> data structure help you to solve problem in Efficient way, both in term of memory and time.
+
+
+
+DOM - tree data structure                           ]
+Browser back & forword - stack data structure       ]   }  IMP (interview)
+os job scheduling - Queue data structure            ]
+
+
+
+
+
+
+prerequisites
+
+     modern javaScript
+     javaScript alogrithm

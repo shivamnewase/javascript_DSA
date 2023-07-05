@@ -1,0 +1,26 @@
+
+
+Array :
+ => array is collection of values that we can store
+ => array is data structure that holds the diffrent types of values
+     that value may be in string, Boolean, Number, Object, etc. 
+ => Array are resziable you don't declare size of array before the array declare.
+=> Array index start from 0 and last index number of array is n-1 and (n is the length of array)
+
+
+
+method's -->
+
+   push();      == push element at last position in array
+   unshift();   == push element at 1st position in array
+   pop();       == remove element at last position in array
+   shift();     == remove element at 1st position in array
+
+
+   Js Arry Function -
+       map();      ==   iterates each and every element in array if inside array object is their then iterates each and every object in array
+       filter();   ==   filter is used for get all records that greater than or less than or equal than 
+       reduce();   ==
+       concat();   == 
+       slice();    ==
+       splice();   ==
