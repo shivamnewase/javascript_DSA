@@ -1,0 +1,14 @@
+
+
+Map  --->>
+
+    Map is unordered collection of key-value pair.Both keys and values can be of any data type.
+    To retrive value you can use the corresponding key.
+
+
+    Mpas vs object
+
+      Object are unordered where as Maps are ordered.
+      keys in object is only string but in maps they can be any types.
+      object are not iterable but maps are iterable.
+      methods and properties apply on object but maps are used to store data only.

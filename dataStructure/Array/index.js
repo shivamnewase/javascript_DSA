@@ -78,35 +78,71 @@
 
 // filter
 
-let arr = [{
-        'name': 'Aman',
-        'age': '23',
-        'city': 'Pune'
-    },
-    {
-        'name': 'Amit',
-        'age': '25',
-        'city': ''
-    },
-    {
-        'name': 'Raju',
-        'age': '28',
-        'city': 'Delhi'
-    },
-    {
-        'name': 'samir',
-        'age': '28',
-        'city': 'Delhi'
-    },
-    {
-        'name': 'hiten',
-        'age': '28',
-        'city': 'Delhi'
-    }
-    ];
+// let arr = [{
+//         'name': 'Aman',
+//         'age': '23',
+//         'city': 'Pune'
+//     },
+//     {
+//         'name': 'Amit',
+//         'age': '25',
+//         'city': ''
+//     },
+//     {
+//         'name': 'Raju',
+//         'age': '28',
+//         'city': 'Delhi'
+//     },
+//     {
+//         'name': 'samir',
+//         'age': '28',
+//         'city': 'Delhi'
+//     },
+//     {
+//         'name': 'hiten',
+//         'age': '28',
+//         'city': 'Delhi'
+//     }
+//     ];
 
-    let val = arr.filter(person =>
-        person.age == '28'
+//     let val = arr.filter(person =>
+//         person.age == '28'
          
-)
-    console.log(val)
+// )
+//     console.log(val)
+
+
+//reduce
+
+//   let number = [1,2,3,4];
+
+//   let sum = number.reduce((prev, next) =>{
+//     return prev + next
+//   });
+
+//   console.log(sum)
+
+// let fname = 'shiv';
+// let laname = 'Sharma';
+
+// console.log(fname.concat(laname));
+
+
+//slice
+
+// const things = ['ant', 'ball', 'camel', 'horse', 'bat'];
+
+// console.log(things.slice(0,5));
+
+
+//splice
+
+//   const arr = ['jan','mar','apr','june'];
+
+//   console.log(arr);
+//   arr.splice(1,0,'feb');
+//   console.log(arr);
+//   arr.splice(4,0,'may');
+//   console.log(arr);
+//   arr.splice(6,0,'july');
+//   console.log(arr);

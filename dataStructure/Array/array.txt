@@ -20,7 +20,7 @@ method's -->
    Js Arry Function -
        map();      ==   iterates each and every element in array if inside array object is their then iterates each and every object in array
        filter();   ==   filter is used for get all records that greater than or less than or equal than 
-       reduce();   ==
-       concat();   == 
-       slice();    ==
-       splice();   ==
+       reduce();   ==   reduce method execute reducer function for array , 1] reduce method return single value , 2]reduce method not execute for empty array element
+       concat();   ==   The concat() method is used to merge two or more arrays. This method does not change the existing arrays, but instead returns a new array.
+       slice();    ==   The slice() method returns a shallow copy of a portion of an array into a new array object selected from start to end (end not included) where start and end represent the index of items in that array. The original array will not be modified.
+       splice();   ==   The splice() method changes the contents of an array by removing or replacing existing elements and/or adding new elements in place.

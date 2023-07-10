@@ -1,0 +1,17 @@
+
+
+Set -->
+
+  A set is Data Structure that can hold a collection of values. The values however must be a unique.
+
+   sets are hold the diffrent data types values like string,Boolean,object,number,etc..
+   set are dynamically sized 
+   sets are iterable with forEach loop
+   sets are similar to array
+
+
+   Diffrent betn Sets and Array
+
+      duplicate value can hold inside the array and not in Sets.
+      insertion order maintain in arrays but it is not in case with sets.
+      searching and deleting an element in the sets is faster compared to array.
