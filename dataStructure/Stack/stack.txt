@@ -1,0 +1,17 @@
+
+
+
+   Stack ---->
+
+         Stack is data structure is a sequential collection of element that follows the principle LIFO(Last In First Out);
+         Stack is abstract data type
+         Last element Inserted in remove that element first in Stack 
+
+
+         Stack Data Structure Support two main operations
+
+           push() 
+           pop()
+           
+           stack implement linear complexity in array add & remove element in any position but in stack follows LIFO principle
+           list with restriction then you cn go with stack

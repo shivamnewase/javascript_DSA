@@ -6,7 +6,7 @@ Map  --->>
     To retrive value you can use the corresponding key.
 
 
-    Mpas vs object
+    Maps vs object
 
       Object are unordered where as Maps are ordered.
       keys in object is only string but in maps they can be any types.
