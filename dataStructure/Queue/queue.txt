@@ -1,0 +1,17 @@
+
+
+Queue ------->
+ 
+     Queue is Data Structure that follows the FIFO(First In First Out)
+     Queue is also Linear Data Structure.
+     Queue is abstract data type
+
+
+     enqueue = for add element in last or end of the queue.
+     dequeue = to remove an element from the front of queue.
+     peek = To get the value of front element without removing it.
+     isEmpty =  to check queue is empty or not
+     printQueue = print the queue.
+
+     queue usages-->
+          printers, cpu task Scheduling, callback queue in js
