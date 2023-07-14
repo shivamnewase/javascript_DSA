@@ -1,0 +1,21 @@
+
+
+ Circular Queue ----->
+
+            - In circular queue last element points to first element.
+                The size of queue is fixed  and a single block of memory is 
+                used as if the first element is connected to the last element 
+            
+            - It follows FIFO operation
+
+            - Two main operation in Queue is 
+                 
+                  - enqueue =  enqueue is add element to rear position of Array
+
+                  - dequeue = dequeue is remove element to front position of Array
+
+            Circular Queue Usages
+
+                - Clock
+                - Streaming data
+                - Traffic Light
