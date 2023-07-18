@@ -1,0 +1,9 @@
+
+
+    Link List ----->
+
+        - Linked list is a linear data structure that includes a series of a connected nodes 
+           Each node consist of a data value and a pointer that next to the next node
+    
+        - The list element can be easily inserted or removed without reallocation or 
+          reorganization of the entire structure
