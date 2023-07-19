@@ -7,3 +7,8 @@
     
         - The list element can be easily inserted or removed without reallocation or 
           reorganization of the entire structure
+
+    Usage of link list
+    
+        - All application of both stack and queue are application of link list
+        image viewer
